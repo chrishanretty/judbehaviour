@@ -520,7 +520,7 @@ Hangartner, Dominik, Benjamin E. Lauderdale, and Judith Spirig. "Refugee Roulett
 ## Data
 
  - All the data is available on GitHub
- - The url is TODO:
+ - The url is: [https://github.com/chrishanretty/judbehaviour](https://github.com/chrishanretty/judbehaviour)
  - The R code is also there
  - The Sunstein data is in any case available at [http://epstein.wustl.edu/research/behaviorJudges/chapters.php?req=11](http://epstein.wustl.edu/research/behaviorJudges/chapters.php?req=11)
 
