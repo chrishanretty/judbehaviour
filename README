@@ -1,0 +1,9 @@
+This project contains materials for a half-day course on judicial behaviour.
+
+There are two PDF files which contain slides. These PDF files have been generated from the Knitr documents ending in .Rmd. All the code used in those files is in the R documents ending in .R.
+
+I've included some of the data I use in the data/ folder; you can get these directly from the following sites:
+
+ - for the Sunstein data: http://epstein.wustl.edu/research/behaviorJudges/chapters.php?req=11
+ - for the US Supreme Court data: scdb.wustl.edu/data.php
+ 
